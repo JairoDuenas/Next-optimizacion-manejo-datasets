@@ -4366,9 +4366,9 @@ safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   version "2.1.2"
   resolved "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.2.tgz"
 
-sanitize-html@^2.7.0:
-  version "2.7.0"
-  resolved "https://registry.npmjs.org/sanitize-html/-/sanitize-html-2.7.0.tgz"
+sanitize-html@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/sanitize-html/-/sanitize-html-2.7.1.tgz#a6c2c1a88054a79eeacfac9b0a43f1b393476901"
   dependencies:
     deepmerge "^4.2.2"
     escape-string-regexp "^4.0.0"
