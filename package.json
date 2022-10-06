@@ -35,7 +35,7 @@
     "@graphql-codegen/typescript-graphql-request": "^4.5.5",
     "@graphql-codegen/typescript-operations": "^2.5.3",
     "@material-ui/icons": "^4.11.3",
-    "@material-ui/lab": "^4.0.0-alpha.58",
+    "@material-ui/lab": "^4.0.0-alpha.61",
     "@next/bundle-analyzer": "^12.2.5",
     "@types/cookie": "^0.5.1",
     "@types/lodash": "^4.14.184",
